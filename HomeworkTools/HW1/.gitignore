@@ -1,5 +1,6 @@
-cmake-build-debug/
+/cmake-build-debug/
 .idea/
-mtm_blockchain
-**/*.out
+**/*.res
 **/test_results.html
+**/main.out
+**/test.out

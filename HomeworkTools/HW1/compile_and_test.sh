@@ -1,5 +1,5 @@
 #!/bin/bash
 
 git submodule update --init --recursive --remote
-g++ -DNDEBUG -std=c++17 -Wall -pedantic-errors -Werror -g -o mtm_blockchain *.cpp
-python3 ./MatamGenericTester/run_tests.py ./TechnionMatam/HW1/tests/custom_tests.json ./mtm_blockchain
+g++ -DNDEBUG -std=c++11 -Wall -o test.out *.cpp
+python3 ./MatamGenericTester/run_tests.py ./TechnionDataStructures/HW1/tests/custom_tests.json ./test.out
