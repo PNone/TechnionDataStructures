@@ -10,10 +10,13 @@
         "inputFile": "test:::placeholder:::.in",
         "out": "test:::placeholder:::.res"
       },
-      "params_range": {
-        "first": 0,
-        "last": 4
-      },
+      "params_range": [
+        "0",
+        "10",
+        "20",
+        "30",
+        "40"
+      ],
       "run_leaks": true,
       "output_file": "test:::placeholder:::.res",
       "expected_output_file": "test:::placeholder:::.expected"
