@@ -20,6 +20,21 @@
       "run_leaks": true,
       "output_file": "test:::placeholder:::.res",
       "expected_output_file": "test:::placeholder:::.expected"
+    },
+    {
+      "name": "Custom Generated Test :::placeholder:::",
+      "template": "generated",
+      "params": {
+        "inputFile": "generated/test:::placeholder:::.in",
+        "out": "generated/test:::placeholder:::.res"
+      },
+      "params_range": {
+        "first": 41,
+        "last": 99
+      },
+      "run_leaks": true,
+      "output_file": "generated/test:::placeholder:::.res",
+      "expected_output_file": "generated/test:::placeholder:::.expected"
     }
   ]
 }
