@@ -1,12 +1,12 @@
 import random
 
 # Generate the first set of 50 random positive integers
-horse_ids = [random.randint(1, 1000) for _ in range(50)]
+horse_ids = [random.randint(1, 50) for _ in range(50)]
 
 speeds = [random.randint(1, 50) for _ in range(50)]
 
 # Generate the second set of 50 random positive integers
-herd_ids = [random.randint(1, 1000) for _ in range(50)]
+herd_ids = [random.randint(2000, 2003) for _ in range(50)]
 
 ops = [
     "add_herd","remove_herd","add_horse","join_herd",
