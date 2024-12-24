@@ -1,7 +1,5 @@
 #!/bin/bash
 
-export LOCAL_GRADESCOPE_TIMEOUT=50
-export LOCAL_GRADESCOPE_VALGRIND_TIMEOUT=60
 export MATAM_TESTER_TEST_TIMEOUT=25
 export MATAM_TESTER_VALGRIND_TIMEOUT=25
 git submodule update --init --recursive --remote
