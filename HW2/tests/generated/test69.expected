@@ -1,0 +1,4 @@
+add_team: SUCCESS
+get_team_record: FAILURE
+add_jockey: INVALID_INPUT
+Invalid input format

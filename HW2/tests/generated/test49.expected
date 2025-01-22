@@ -1,0 +1,5 @@
+update_match: FAILURE
+merge_teams: FAILURE
+add_team: SUCCESS
+add_jockey: INVALID_INPUT
+Invalid input format
