@@ -1,3 +1,10 @@
-unite_by_record: FAILURE
+merge_teams: FAILURE
+update_match: FAILURE
+add_team: SUCCESS
+unite_by_record: INVALID_INPUT
+update_match: FAILURE
+unite_by_record: INVALID_INPUT
+add_team: SUCCESS
+update_match: FAILURE
 add_jockey: INVALID_INPUT
 Invalid input format

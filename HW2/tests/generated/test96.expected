@@ -1,2 +1,7 @@
+add_team: SUCCESS
+add_team: SUCCESS
+unite_by_record: FAILURE
+unite_by_record: INVALID_INPUT
+update_match: FAILURE
 add_jockey: INVALID_INPUT
 Invalid input format

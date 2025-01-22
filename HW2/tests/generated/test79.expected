@@ -1,2 +1,4 @@
+get_jockey_record: FAILURE
+merge_teams: FAILURE
 add_jockey: INVALID_INPUT
 Invalid input format

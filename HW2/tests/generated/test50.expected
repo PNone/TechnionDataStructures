@@ -1,2 +1,8 @@
+merge_teams: FAILURE
+update_match: FAILURE
+merge_teams: FAILURE
+update_match: FAILURE
+merge_teams: FAILURE
+get_jockey_record: FAILURE
 add_jockey: INVALID_INPUT
 Invalid input format

@@ -1,2 +1,10 @@
+add_team: SUCCESS
+get_jockey_record: FAILURE
+unite_by_record: INVALID_INPUT
+merge_teams: FAILURE
+unite_by_record: FAILURE
+get_team_record: FAILURE
+unite_by_record: FAILURE
+get_jockey_record: FAILURE
 add_jockey: INVALID_INPUT
 Invalid input format

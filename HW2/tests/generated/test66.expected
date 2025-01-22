@@ -1,6 +1,2 @@
-add_team: SUCCESS
-add_team: SUCCESS
-update_match: FAILURE
-get_team_record: FAILURE
 add_jockey: INVALID_INPUT
 Invalid input format

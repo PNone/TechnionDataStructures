@@ -1,20 +1,6 @@
-get_jockey_record: FAILURE
+merge_teams: FAILURE
 update_match: FAILURE
-merge_teams: FAILURE
-get_team_record: FAILURE
 get_jockey_record: FAILURE
-get_team_record: FAILURE
-get_team_record: FAILURE
 get_jockey_record: FAILURE
-merge_teams: FAILURE
-add_team: SUCCESS
-merge_teams: FAILURE
-get_team_record: FAILURE
-get_jockey_record: FAILURE
-update_match: FAILURE
-unite_by_record: INVALID_INPUT
-update_match: FAILURE
-merge_teams: FAILURE
-merge_teams: FAILURE
 add_jockey: INVALID_INPUT
 Invalid input format

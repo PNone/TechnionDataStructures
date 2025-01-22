@@ -1,18 +1,4 @@
-unite_by_record: INVALID_INPUT
-unite_by_record: FAILURE
 get_team_record: FAILURE
 add_team: SUCCESS
-unite_by_record: INVALID_INPUT
-update_match: FAILURE
-get_team_record: FAILURE
-update_match: FAILURE
-update_match: FAILURE
-get_team_record: FAILURE
-add_team: SUCCESS
-unite_by_record: INVALID_INPUT
-get_team_record: FAILURE
-update_match: FAILURE
-get_jockey_record: FAILURE
-get_team_record: FAILURE
 add_jockey: INVALID_INPUT
 Invalid input format
