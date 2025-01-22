@@ -23,7 +23,7 @@ for test in range(41, 100):
             if command == "add_team":
                 f.write(f'{command} {team1}\n')
             elif command == "add_jockey":
-                f.write(f'{command} {team1}\n')
+                f.write(f'{command} {jockey1} {team1}\n')
             elif command == "update_match":
                 f.write(f'{command} {jockey1} {jockey2}\n')
             elif command == "merge_teams":
