@@ -1,0 +1,22 @@
+{
+  "templates": {
+    "generated": "<:::inputFile::: > :::out:::"
+  },
+  "tests": [
+    {
+      "name": "Yotam Test :::placeholder:::",
+      "template": "generated",
+      "params": {
+        "inputFile": "YTtests:::placeholder:::.in",
+        "out": "YTtests:::placeholder:::.res"
+      },
+      "params_range": {
+        "first": 1,
+        "last": 11
+      },
+      "run_leaks": true,
+      "output_file": "YTtests:::placeholder:::.res",
+      "expected_output_file": "YTtests:::placeholder:::.expected"
+    }
+  ]
+}
